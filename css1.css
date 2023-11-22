@@ -1,0 +1,56 @@
+body{
+    background-color: cornflowerblue;
+}
+.tt{
+    background-color: aliceblue;
+    margin: 700px;
+    height: 700px;
+    margin-top: 50px;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+}
+.tt1{
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.tieude{
+    text-align: center;
+}
+button{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    padding: 8px 16px;
+}
+input{
+    margin: 20px;
+}
+label{
+    margin: 20px;
+}
+#nhap{
+    width: 80%;
+    padding: 20px;
+}
+#add{
+    width: 70%;
+    /* padding: 50px; */
+    box-sizing: border-box;
+}
+form{
+    margin: 20px;
+}
+.nut{
+    background-color: cornflowerblue;
+    padding: 8px 16px;
+}
+textarea {
+    min-height: calc(1.5em + 0.75rem + calc(var(--bs-border-width) * 2));
+    width: 70%;
+    height: 150px;
+    margin-left: 20px;
+    font-size: 20px;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+    border: 1px solid #EEEEEE;
+}
